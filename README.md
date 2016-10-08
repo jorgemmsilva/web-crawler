@@ -118,6 +118,8 @@ Next Steps
 
 cut query parameters from child pages (as an option)?
 
+refactor using async.parallel (https://github.com/caolan/async)
+
 publish npm module?
 
 
